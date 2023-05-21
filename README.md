@@ -1,6 +1,10 @@
 # spring-api-rest
   
-  <dependency>
+ 
+ 
+ 
+ 
+ <dependency>
             <groupId>org.springframework.data</groupId>
             <artifactId>spring-data-redis</artifactId>
             <version>3.1.0</version>
