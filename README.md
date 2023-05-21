@@ -26,6 +26,14 @@ spring-api-rest
     </dependencyManagement>
         
         
+application.properties (inmenso!!)
+
+
+        ![Captura desde 2023-05-21 18-16-56](https://github.com/carlfei/spring-api-rest-redis/assets/49040356/260c90bc-0e6e-4bdc-bbcf-c412b2328711)
+
+        
+        
+        
 
 ![Captura desde 2023-05-09 11-43-30](https://user-images.githubusercontent.com/49040356/237060211-9ce78dde-340f-4783-b8fa-da86d364dc44.png)
 
