@@ -28,9 +28,12 @@ spring-api-rest
         
 application.properties (inmenso!!)
 
+![Captura desde 2023-05-21 18-16-56](https://github.com/carlfei/spring-api-rest-redis/assets/49040356/fd6b6018-be52-4459-812a-3a8eb03fb46a)
 
 
-        ![Captura desde 2023-05-21 18-16-56](https://github.com/carlfei/spring-api-rest-redis/assets/49040356/ba3c6437-4b7c-4469-8a81-309da555a93c)
+
+
+        
 
         
         
